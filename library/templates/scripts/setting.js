@@ -1,6 +1,6 @@
 // Ajustes del Front-End
 
-MODULE_NAME_PATH = 'becas-juventud';
+MODULE_NAME_PATH = 'shortcut-servicios';
 
 // Nuevo Estudiante
 
